@@ -1,2 +1,31 @@
-# Cybersecurity_Attacks_Analysis
-Analyzes 40,000+ cybersecurity incidents using Python and Tableau to identify trends and actionable insights.
+# Cybersecurity Attacks Analysis
+
+This project analyzes a dataset of over 40,000 cybersecurity incidents from 2020 to 2023. The primary goal is to uncover patterns, identify vulnerabilities, and derive actionable insights to strengthen cybersecurity strategies.
+
+## Features
+- Comprehensive exploratory data analysis (EDA) to identify attack trends, severity, and geographical distribution.
+- Visualizations created using **Python** and **Tableau** to illustrate patterns in attack types and severity levels.
+- Actionable recommendations for improving resource allocation and mitigation strategies.
+
+---
+
+## Dataset Overview
+The dataset (`cybersecurity_attacks.csv`) includes:
+- **Attack Type**: Type of incident (e.g., phishing, DDoS, ransomware).
+- **Severity**: Severity level of each attack.
+- **Region**: Geographic region where the attack occurred.
+- **Year**: The year the incident was recorded.
+- **Additional Details**: Other metadata related to the attacks.
+
+> Note: The dataset has been pre-processed for the purpose of this analysis.
+
+---
+
+## Project Structure
+```plaintext
+CyberSecurity_Attacks/
+├── cybersecurity_attacks.ipynb         # Jupyter Notebook with the analysis and visualizations
+├── cybersecurity_attacks.csv           # Dataset for the analysis
+├── INFO_5709_FinalProject_VinayReddy.twb # Tableau workbook with interactive dashboards
+├── INFO_5709_FinalProject_Report.docx  # Detailed project documentation
+├── README.md                           # Project documentation
