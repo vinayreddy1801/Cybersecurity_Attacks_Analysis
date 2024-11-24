@@ -26,6 +26,6 @@ The dataset (`cybersecurity_attacks.csv`) includes:
 CyberSecurity_Attacks/
 ├── cybersecurity_attacks.ipynb         # Jupyter Notebook with the analysis and visualizations
 ├── cybersecurity_attacks.csv           # Dataset for the analysis
-├── INFO_5709_FinalProject_VinayReddy.twb # Tableau workbook with interactive dashboards
-├── INFO_5709_FinalProject_Report.docx  # Detailed project documentation
+├── cybersecurity_attacks.twb # Tableau workbook with interactive dashboards
+├── cybersecurity_attacks.docx  # Detailed project documentation
 ├── README.md                           # Project documentation
