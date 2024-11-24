@@ -24,8 +24,8 @@ The dataset (`cybersecurity_attacks.csv`) includes:
 ## Project Structure
 ```plaintext
 CyberSecurity_Attacks/
-├── cybersecurity_attacks.ipynb         # Jupyter Notebook with the analysis and visualizations
-├── cybersecurity_attacks.csv           # Dataset for the analysis
-├── cybersecurity_attacks.twb # Tableau workbook with interactive dashboards
-├── cybersecurity_attacks.docx  # Detailed project documentation
-├── README.md                           # Project documentation
+├── cybersecurity_attacks.ipynb                     # Jupyter Notebook with the analysis and visualizations
+├── cybersecurity_attacks.csv                       # Dataset for the analysis
+├── cybersecurity_attacks.twb                       # Tableau workbook with interactive dashboards
+├── cybersecurity_attacks_PaperDocumentation.docx   # Detailed project documentation
+├── README.md                                       # Project documentation
